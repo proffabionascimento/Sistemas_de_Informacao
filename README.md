@@ -11,4 +11,4 @@ Repositório destinado ao armazenamento de materiais didáticos da disciplina de
 
 <h1>📚 Extras</h1>
 <br><br>
-> 📘 **Apostila - Sistemas de informação** | **[📖 Abrir](https://drive.google.com/file/d/1v0SShKaV9x_Rha5y68GcOYoxNDt_vE0N/view?usp=drive_link)**
+> 📘 **Apostila - Redes de Computadores** | **[📖 Abrir](https://drive.google.com/file/d/1J2Lfwppjty7vKB1ut0G-6uAT1Mii2Xmf/view?usp=drive_link)**
