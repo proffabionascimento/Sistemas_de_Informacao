@@ -11,4 +11,4 @@ Repositório destinado ao armazenamento de materiais didáticos da disciplina de
 
 <h1>📚 Extras</h1>
 <br><br>
-> 📘 **Apostila - Redes de Computadores** | **[📖 Abrir](https://drive.google.com/file/d/1J2Lfwppjty7vKB1ut0G-6uAT1Mii2Xmf/view?usp=drive_link)**
+> 📘 **Comandos de Rede** | **[📖 Abrir](https://drive.google.com/file/d/11uc2AKxDQmwKcUm40-L5d9jzY6cpfJIF/view?usp=drive_link)**
