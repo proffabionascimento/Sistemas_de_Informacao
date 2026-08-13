@@ -9,7 +9,7 @@ Repositório destinado ao armazenamento de materiais didáticos da disciplina de
 
 > 📘 **Sistemas de Informação Gerenciais**  
 > **Kenneth C. Laudon e Jane P. Laudon** • 11ª edição • Pearson Education do Brasil, 2014  
-> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebooks/blob/main/Sistemas%20de%20Informacao%20Gerenciais%20-%20Laudon_Laudon.pdf)**
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebook/blob/main/Sistemas%20de%20Informacao%20Gerenciais%20-%20Laudon_Laudon.pdf)**
 
 <br><br>
 
